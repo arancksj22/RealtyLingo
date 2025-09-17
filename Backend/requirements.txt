@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+supabase
+firecrawl
+numpy
+faiss-cpu
