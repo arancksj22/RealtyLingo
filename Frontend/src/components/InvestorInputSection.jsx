@@ -11,7 +11,7 @@ function InvestorInputSection({ onPitchGenerated, onReviewReceived, onInvestorMa
 
   const generatePitch = async () => {
     if (!businessIdea) {
-      console.log("Business idea is empty.");
+      console.log("Business idea is empty. ");
       return;
     }
 
