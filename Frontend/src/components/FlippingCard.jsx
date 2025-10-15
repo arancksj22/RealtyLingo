@@ -11,7 +11,7 @@ const FlippingCard = () => {
           <div className="flip-card-inner">
             <div className="flip-card-front">
             <h4>AI-Powered Assistance</h4><br/>
-            <p>Struggling to build your startup alone? We've got your back.</p>
+            <p>Struggling to build your startup alone? We've got your back!</p>
             </div>
             <div className="flip-card-back">
             <h4>Chat with Your AI Advisor</h4><br/>
