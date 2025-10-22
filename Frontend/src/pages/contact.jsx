@@ -41,7 +41,7 @@ function Contact() {
               </div>
 
               <div className="contact-info">
-                <h2>Contact Information</h2>
+                <h2>Contact Information!</h2>
                 <div className="info-items">
                   <div className="info-item">
                     <div>
