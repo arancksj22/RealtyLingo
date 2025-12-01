@@ -43,7 +43,7 @@ const About = () => {
                 {
                   title: "Validation",
                   content:
-                    "AI analyze market trends, evaluates industry demand, and assesses competition to help you validate your business idea. It provides insights based on real-world data, ensuring your idea is viable before investing resources. You’ll receive risk analysis, feasibility studies, and market-fit assessments powered by AI-driven algorithms.",
+                    "AI analyze markets trends, evaluates industry demand, and assesses competition to help you validate your business idea. It provides insights based on real-world data, ensuring your idea is viable before investing resources. You’ll receive risk analysis, feasibility studies, and market-fit assessments powered by AI-driven algorithms.",
                 },
                 {
                   title: "Scaling",
